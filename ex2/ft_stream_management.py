@@ -12,5 +12,4 @@ print(
     file=sys.stderr
     )
 sys.stdout.write("[STANDARD] Data transmission complete\n")
-
 sys.stdout.write("\nThree-channel communication test successful.\n")
